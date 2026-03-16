@@ -65,9 +65,9 @@ The app is:
 
 > _Add your screenshots or screen recordings here_
 
-| Login | Dashboard | Offline Mode |
-|-------|-----------|--------------|
-| ![Login](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) | ![Offline](./screenshots/offline.png) |
+| Signin | Signup | Dashboard | Offline Mode |
+|-------|-------|-----------|--------------|
+| ![Signin](./screenshots/Signin.jpeg) | ![Signup](./screenshots/Signup.jpeg) | ![Dashboard](./screenshots/dashboard.png) | ![Offline](./screenshots/offline.png) |
 
 ---
 
