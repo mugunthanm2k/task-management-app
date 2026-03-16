@@ -65,9 +65,9 @@ The app is:
 
 > _Add your screenshots or screen recordings here_
 
-| Signin | Signup | Dashboard | Offline Mode |
-|-------|-------|-----------|--------------|
-| ![Signin](./screenshots/Signin.jpeg) | ![Signup](./screenshots/Signup.jpeg) | ![Dashboard](./screenshots/dashboard.png) | ![Offline](./screenshots/offline.png) |
+| Signin | Signup | Dashboard | Add/Edit Task | TaskDetails | Offline Mode |
+|-------|-------|-----------|-----------|-----------|--------------|
+| ![Signin](./screenshots/Signin.jpeg) | ![Signup](./screenshots/Signup.jpeg) | ![Dashboard](./screenshots/Dashboard.jpeg) | ![Add/Edit](./screenshots/Add-Edit-Task.jpeg) | ![TaskDetails](./screenshots/TaskDetails.jpeg) | ![Offline](./screenshots/Offline.jpeg) |
 
 ---
 
