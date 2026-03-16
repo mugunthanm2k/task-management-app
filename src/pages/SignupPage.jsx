@@ -24,7 +24,7 @@ const SignupPage = () => {
       const userCredential = await signup(data.email, data.password);
       await updateProfile(userCredential.user, { displayName: data.name });
       toast.success('Account created successfully!');
-      setTimeout(() => navigate('/dashboard'), 1500);
+      setTimeout(() => navigate('/'), 1500);
     } catch (error) {
       const messages = {
         'auth/email-already-in-use': 'Email already in use',
